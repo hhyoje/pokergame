@@ -8,7 +8,8 @@ At this point the player can play again if they have a remaining balance.
 
 # Motivation
 
-This project was created using CSS, HTML, and Javascript. Originally, the backend was done as an assignment in an Introduction to Java class.
+This project was created using CSS, HTML, and Javascript with this video (https://youtu.be/NxRwIZWjLtE) as a guide.
+Originally, the backend was done as an assignment in an Introduction to Java class.
 This project had increased my interest in Computer Science and I had always wanted to see what it was like to implement the front end.
 So, this became my first experience in front end work and using languages involved in this project.
 
