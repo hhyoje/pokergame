@@ -14,7 +14,7 @@ So, this became my first experience in front end work and using languages involv
 
 # Screenshots
 
-Starting Page
+0. Starting Page
 ![First open](https://github.com/hhyoje/pokergame/blob/main/first_open.PNG)
 
 1. Input a bet
