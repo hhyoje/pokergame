@@ -14,5 +14,17 @@ So, this became my first experience in front end work and using languages involv
 
 # Screenshots
 
+Starting Page
 ![First open](https://github.com/hhyoje/pokergame/blob/main/first_open.PNG)
 
+1. Input a bet
+![Bet](https://github.com/hhyoje/pokergame/blob/main/bet.PNG)
+
+2. Click "Draw"
+![Draw](https://github.com/hhyoje/pokergame/blob/main/draw.PNG)
+
+3. Click "Analyze"
+![Analyze](https://github.com/hhyoje/pokergame/blob/main/analyze.PNG)
+
+4. Click "Play Again"
+![Play Again](https://github.com/hhyoje/pokergame/blob/main/play_again.PNG)
