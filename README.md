@@ -30,6 +30,6 @@ So, this became my first experience in front end work and using languages involv
 
 ![Analyze](https://github.com/hhyoje/pokergame/blob/main/analyze.PNG)
 
-4. Click "Play Again"
+4. Click "Play Again" (Bet can be changed)
 
 ![Play Again](https://github.com/hhyoje/pokergame/blob/main/play_again.PNG)
